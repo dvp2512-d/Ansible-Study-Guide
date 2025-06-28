@@ -63,16 +63,11 @@ Day 9: Ansible Vault for Security
 
 Day 10: Policy as Code
 
-Day 11: Network Automation using Ansible
+Day 11: Advanced Ansible Project
 
-Day 12: Ansible Tower Deep Dive
+   - Terraform + Ansible Project
 
-- Understanding Ansible Tower
-- Comparision with Ansible command line and adhoc commands
-- RBAC and Security with Ansible Tower
 
-Day 13: Advanced Ansible Project
 
-- Terraform + Ansible Project
 
-Day 14: Ansible Interview Questions
+
