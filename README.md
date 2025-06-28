@@ -43,11 +43,7 @@ Day 6: Ansible Variables and Precedence
 - Variable precedence: How Ansible resolves conflicts between different variable sources.
 - Hands-on: Using variables in playbooks and roles.
 
-Day 7: Ansible Conditionals and Loops
-
-- Using conditionals in Ansible to control task execution.
-- Implementing loops for repetitive tasks.
-- Practical examples of conditionals and loops in playbooks.
+Day 7: Ansible Project
 
 Day 8: Error Handling in Ansible
 
